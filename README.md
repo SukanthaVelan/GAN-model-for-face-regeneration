@@ -62,5 +62,7 @@ Systematic Search:
   Implement a grid search or random search by defining a range of values for the hyperparameters (LATENT_DIM, CHANNELS, learning rate, etc.). Systematically loop through different combinations, train the GAN, and evaluate the generated images using appropriate evaluation metrics like Inception Score (IS), Frechet Inception Distance (FID), or visual inspection to identify the best-performing configuration.
 
 Output:
+
 ![Screenshot 2023-12-03 215657](https://github.com/xxbeezin/GAN-model-for-face-regeneration/assets/97830357/68d8be74-5134-4c3b-b89b-a4602ce4c407)
+
 ref: https://www.kaggle.com/code/nagessingh/generate-realistic-human-face-using-gan/notebook
