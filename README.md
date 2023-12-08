@@ -63,3 +63,4 @@ Systematic Search:
 
 Output:
 ![Screenshot 2023-12-03 215657](https://github.com/xxbeezin/GAN-model-for-face-regeneration/assets/97830357/68d8be74-5134-4c3b-b89b-a4602ce4c407)
+ref: https://www.kaggle.com/code/nagessingh/generate-realistic-human-face-using-gan/notebook
